@@ -1,0 +1,10 @@
+[package]
+name = "lambda_db"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arrow = "53"
+thiserror = "1"
+
+[dev-dependencies]
